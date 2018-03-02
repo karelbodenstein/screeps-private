@@ -1,5 +1,4 @@
 
-//var task = require('Tasks');
 var harvester = require('role.Harvester');
 var collector = require('role.Collector');
 var repairer = require('role.Repairer');
